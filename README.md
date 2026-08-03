@@ -2,7 +2,7 @@
 
 End-to-end analysis of a retail customer shopping dataset (3,900 transactions) — from raw data cleaning in Python, through SQL-based business analysis in PostgreSQL, to an interactive Power BI dashboard.
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.png)
 
 ## Project Overview
 
